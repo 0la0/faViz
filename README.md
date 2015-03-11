@@ -1,7 +1,7 @@
 Firefly Algorithm Visualization
 =================
 
-A Java program for visualizing an implementation of the (Firefly Optimization Algorithm)[http://en.wikipedia.org/wiki/Firefly_algorithm].
+A Java program for visualizing an implementation of the [Firefly Optimization Algorithm](http://en.wikipedia.org/wiki/Firefly_algorithm).
 
 Requires JRE 1.8+
 
